@@ -40,9 +40,9 @@ Use the scripts `up.sh` and `down.sh` to start/stop them.
 - Docker-compose sample
 
 ## External DNS EKS in 3 steps 
-1- create a policy that can be attached to the IAM Role that gets created for your EKS nodes.
-2- RUN the yaml for installing the External DNS On EKS
-3- Deploying a test service that will use the external dns.
-- 
+
+- create a policy that can be attached to the IAM Role that gets created for your EKS nodes.
+- RUN the yaml for installing the External DNS On EKS
+- Deploying a test service that will use the external dns.
 
 ----------
